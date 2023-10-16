@@ -1,5 +1,9 @@
+.mainbackground {
+    background-color: green;
+}
+
 .mainheader {
-    color: green;
+    color: red;
 }
 
 ul {
@@ -8,4 +12,8 @@ ul {
 
 a {
     color: orange;
+}
+
+.lasagnalist {
+    color: mediumaquamarine;
 }

@@ -1,9 +1,16 @@
 .mainbackground {
-    background-color: green;
+    background-color: rgba(87, 32, 87, 0.822);
+}
+
+.lasagnabackground {
+    background-color: rgba(150, 86, 14, 0.808);
 }
 
 .mainheader {
     color: red;
+    background-color: rgba(128, 36, 0, 0.774);
+    text-align: center;
+    width: 400px;
 }
 
 ul {
@@ -11,9 +18,14 @@ ul {
 }
 
 a {
-    color: orange;
+    color: mediumaquamarine;
+    border: 2px black;
 }
 
 .lasagnalist {
-    color: mediumaquamarine;
+    color: orange;
+}
+
+.bluedot {
+    color: rgb(6, 6, 110);
 }
